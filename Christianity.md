@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-[[./christianityonepager.png|christianityonepager]]
+[[./Project Files/christianityonepager.png|christianityonepager.png]]
 
 Christiantity was founded by a man named Jesus of Nazareth. (4 BCE - 29CE)
 
