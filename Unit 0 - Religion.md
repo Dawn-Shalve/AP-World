@@ -10,19 +10,19 @@ share: true
 Religion was a good way to explain things that people didn't understand before we can prove how things work, Now, its a way people hate on eachother. I don't practice religion
 
 
-[[Confusionism|Confusionism]]
+[[./Confusionism|Confusionism]]
 
-[[Daoism|Daoism]]
+[[./Daoism|Daoism]]
 
-[[Hinduism|Hinduism]]
+[[./Hinduism|Hinduism]]
 
-[[Buddhism|Buddhism]]
+[[./Buddhism|Buddhism]]
 
 [[Islam|Islam]]
 
-[[Christianity|Christianity]]
+[[./Christianity|Christianity]]
 
-[[Zoroastrianism|Zoroastrianism]]
+[[./Zoroastrianism|Zoroastrianism]]
 
 
 
