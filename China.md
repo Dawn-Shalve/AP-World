@@ -2,4 +2,4 @@
 share: true
 ---
 Dynasties:
-[[Song Dynasty|Song Dynasty]]
+[[./Song Dynasty|Song Dynasty]]
